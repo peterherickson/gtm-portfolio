@@ -1,0 +1,167 @@
+{
+  "totalArtists": 459,
+  "raceDistribution": [
+    {
+      "race_ethnicity": "White",
+      "count": 350
+    },
+    {
+      "race_ethnicity": "Black or African American",
+      "count": 33
+    },
+    {
+      "race_ethnicity": "Hispanic or Latino",
+      "count": 21
+    },
+    {
+      "race_ethnicity": "Asian",
+      "count": 18
+    },
+    {
+      "race_ethnicity": "Prefer Not To Say",
+      "count": 16
+    },
+    {
+      "race_ethnicity": "Multi-Racial",
+      "count": 7
+    },
+    {
+      "race_ethnicity": "American Indian or Alaska Native",
+      "count": 3
+    },
+    {
+      "race_ethnicity": "Multi-Racial: Hispanic or Latino / White",
+      "count": 3
+    },
+    {
+      "race_ethnicity": "Multi-Racial: Black or African American / White",
+      "count": 2
+    },
+    {
+      "race_ethnicity": "Afro-Indigenous of the Caribbean",
+      "count": 1
+    },
+    {
+      "race_ethnicity": "Multi-Racial: African-American / White",
+      "count": 1
+    },
+    {
+      "race_ethnicity": "Multi-Racial: Ashkenazi Jewish / White",
+      "count": 1
+    },
+    {
+      "race_ethnicity": "Multi-Racial: Asian / White",
+      "count": 1
+    },
+    {
+      "race_ethnicity": "Multi-Racial: Black or African American / Asian / White",
+      "count": 1
+    },
+    {
+      "race_ethnicity": "Multi-Racial: Middle Eastern / White",
+      "count": 1
+    }
+  ],
+  "genderDistribution": [
+    {
+      "gender_identity": "Woman",
+      "count": 281
+    },
+    {
+      "gender_identity": "Man",
+      "count": 141
+    },
+    {
+      "gender_identity": "Genderqueer",
+      "count": 17
+    },
+    {
+      "gender_identity": "Prefer Not To Say",
+      "count": 7
+    },
+    {
+      "gender_identity": "non-binary",
+      "count": 6
+    },
+    {
+      "gender_identity": "Trans man",
+      "count": 4
+    },
+    {
+      "gender_identity": "Agender",
+      "count": 2
+    },
+    {
+      "gender_identity": "Queer femme",
+      "count": 1
+    }
+  ],
+  "incomeDistribution": [
+    {
+      "annual_income": "Less than $20K",
+      "count": 145
+    },
+    {
+      "annual_income": "$20K - $40K",
+      "count": 163
+    },
+    {
+      "annual_income": "$40K - $60K",
+      "count": 88
+    },
+    {
+      "annual_income": "$60K - $80K",
+      "count": 34
+    },
+    {
+      "annual_income": "$80K - $100K",
+      "count": 16
+    },
+    {
+      "annual_income": "$100K+",
+      "count": 13
+    }
+  ],
+  "topMedia": [
+    {
+      "media_type": "Painting",
+      "count": 248
+    },
+    {
+      "media_type": "Drawing",
+      "count": 192
+    },
+    {
+      "media_type": "Photography",
+      "count": 148
+    },
+    {
+      "media_type": "Sculpture",
+      "count": 148
+    },
+    {
+      "media_type": "Printmaking",
+      "count": 139
+    },
+    {
+      "media_type": "Installation",
+      "count": 125
+    },
+    {
+      "media_type": "Digital / New Media",
+      "count": 113
+    },
+    {
+      "media_type": "Textiles",
+      "count": 104
+    },
+    {
+      "media_type": "Video",
+      "count": 80
+    },
+    {
+      "media_type": "Curation",
+      "count": 77
+    }
+  ]
+}
